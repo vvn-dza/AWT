@@ -4,7 +4,7 @@ This repository contains two web pages showcasing my portfolio. The first page i
 
 ## Pages Overview
 
-### 1. Tailwind CSS Portfolio Page
+### 1. [Tailwind CSS Portfolio Page](https://vvn-dza.github.io/AWT/assg1.html)
 - **Description**: A simple and responsive portfolio page designed with Tailwind CSS.
 - **Features**:
   - Responsive design with Tailwind utility classes.
@@ -12,7 +12,7 @@ This repository contains two web pages showcasing my portfolio. The first page i
   - Grid layout to showcase projects.
   - Custom styling for borders, shadows, padding, and typography.
 
-### 2. Bootstrap Portfolio Page
+### 2. [Bootstrap Portfolio Page](https://vvn-dza.github.io/AWT/assg2.html)
 - **Description**: A clean and modern portfolio page leveraging Bootstrap components.
 - **Features**:
   - Uses various Bootstrap components:
@@ -23,5 +23,3 @@ This repository contains two web pages showcasing my portfolio. The first page i
     - Forms
   - A responsive layout with neatly spaced sections.
   - Includes project showcase, resume modal, and a contact form.
-
-## Folder Structure
